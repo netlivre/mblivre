@@ -1,4 +1,4 @@
-﻿tit=$"ㅤﾠㅤ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿"
+tit=$"ㅤﾠㅤ⣿⣿⣿⣿⣿⠁⢰⠂⠐⠋⠊⠄⠂⢰⣆⠄⠂⠤⠄⡨⡀⠄⠄⠄⠄⠄⠠⠠\nﾠㅤㅤ⣿⣿⣿⣿⣿⠇⠄⠈⠄⠄⠄⠄⠄⠄⢸⣿⠄⠄⠄⠄⠄⠁⠄⠄⠄⠄⠄⠠\nㅤㅤﾠ⣿⣿⣿⣿⡟⠄⠄⠄⠄⡀⡄⠠⢀⣤⣿⣿⠄⠄⠄⠄⠄⢐⠄⠄⠄⠄⠄⠠\nㅤㅤﾠ⣿⣿⣿⣿⠁⠄⠸⠄⠄⢿⣷⣬⣿⣿⣿⣿⣀⣹⡤⡀⠄⢰⠄⠄⠄⠄⠄⠠\nㅤㅤﾠ⣿⣿⣿⠇⠄⠄⠄⠄⠄⠘⣿⣿⣿⡿⢼⣿⣿⣿⠁⠄⠄⢸⠄⠄⠄⠄⠄⠠\nㅤㅤﾠ⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠈⠻⣿⣆⣾⡿⠛⠁⠄⠄⠄⠄⡄⠄⠄⠄⠄⠠\nㅤㅤﾠ⣿⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠛⠁⠄⠄⠄⠄⠄⠄⠄⢃⠄⠄⠄⠄⠄ \nㅤㅤﾠ⡟⠄⣀⣤⣤⣄⠄⣠⣀⣀⣀⣀⠄⠄⠄⠄⠄⠄⡀⠄⣀⣀⣘⠄⠄⠄⠄⠄ \nㅤㅤﾠ⠄⣾⣿⣿⣿⡟⢰⣿⣿⣿⣿⣷⣷⣶⣿⣾⣿⣿⡇⢻⣿⣿⣿⣿⡄⠄⠄⠄ \nㅤㅤﾠ⠄⣿⣿⣿⡏⠃⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣌⢟⡯⡟⣿⣷⠄⠄⠄ \nㅤㅤﾠ⠄⢹⣿⣿⢁⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣜⠿⠂⠄⠄ \nㅤㅤﾠ⠄⠄⢿⠇⣼⣿⣿⢿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⡷⡀⠄⠄ \nㅤㅤﾠ⠄⠄⠘⢐⣿⣿⠄⠄⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠄⢰⠘⡀ \nㅤㅤﾠ⠄⠄⠄⢸⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⢻⣟⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⠄⠄ \nㅤㅤﾠ⠄⠄⠄⠄⠻⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿⣟⣾⠿⣿⣿⣿⣿⣿⣿⡿⠃⠠⠄ \nㅤㅤﾠ⢀⢐⡀⣤⣤⣬⣝⣛⣻⣟⣿⢭⣿⣿⡿⣿⣿⣿⣮⣼⣟⠻⣿⡝⠄⠄⠄⠠"
 tokens=$(echo "6f514795-cef4-4629-8cee-59cc9775538e
 03bc4539-13db-4045-9119-a937eb48d41d
 91e22bd5-7b79-4fef-8dfa-c40f1ff3736b
@@ -25,7 +25,7 @@ clear && echo -e $tit
   echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
   echo -e " \e[01;37m『*8*』\e[0m\e[01;33mSOLICITAR PASS\e[0m\c"; echo -e "     \e[02;03;37m Pegue o Pass aqui\e[0m"
   echo -e " \e[01;37m『*9*』\e[0m\e[01;33mVOLTAR MENU PRINCIPAL\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-  echo -e " \e[01;37m『*0*』\e[0m\e[01;33mSAIR\e[0m\c"; echo -e "          \e[02;03;37m Net Livre\e[0m"
+  echo -e " \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA\e[0m\c"; echo -e "          \e[02;03;37m Noob sofre\e[0m"
   echo -e " \e[00;31m═══════════════════════════════\e[0m"
   
   read -n1 -p "$veri" verifica; echo
@@ -83,7 +83,7 @@ clear && echo -e $tit
                  esac
            grepi5=$(echo $response | grep -c "7x1 elegibility")
                  case $grepi5 in
-                      1) echo -e "\e[01;32m logo terá atualização no script\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m logo terá atualização no EhisOpeNer\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
               done
@@ -93,15 +93,15 @@ clear && echo -e $tit
            echo -e "  \e[01;37m〘*1*〙\e[0m\e[01;33mREPETIR TESTADOR PADRÃO\e[0m\c"; echo -e "\e[02;03;37m Apenas cole o numero\e[0m"
            echo -e "  \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
            echo -e "  \e[01;37m『*2*』\e[0m\e[01;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-           echo -e "  \e[01;37m『*0*』\e[0m\e[01;33mSAIR DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Net Livre\e[0m"
+           echo -e "  \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
            echo -e "  \e[00;31m═══════════════════════════════\e[0m"
             while :; do
              read -n1 -p "$veri" opc2; echo
                  case $opc2 in
                       1) break;;
                       2) break;;
-                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNet Livre | @net_livre_oficial\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
-                      *) echo -e "\e[01;37;41m CALMA AMIGO \e[0m"; sleep 1
+                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNoob sofre | @EhisOpeNer\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
+                      *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
                  esac
             done
                  case $opc2 in
@@ -171,7 +171,7 @@ clear && echo -e $tit
                  esac
            grepi5=$(echo $response | grep -c "7x1 elegibility")
                  case $grepi5 in
-                      1) echo -e "\e[01;32m logo terá atualização no script\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m logo terá atualização no EhisOpeNer\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
               done
@@ -181,15 +181,15 @@ clear && echo -e $tit
            echo -e " \e[01;37m〘*1*〙\e[0m\e[01;33mREPETIR PERSONALIZADO\e[0m\c"; echo -e "\e[02;03;37m Cole o(s) token(s)\e[0m"
            echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
            echo -e " \e[01;37m『*2*』\e[0m\e[01;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mSAIR DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Net Livre\e[0m"
+           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Noob sofre\e[0m"
            echo -e " \e[00;31m═══════════════════════════════\e[0m"
             while :; do
              read -n1 -p "$veri" opc2; echo
                  case $opc2 in
                       1) break;;
                       2) break;;
-                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNet Livre | @net_livre_oficial\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
-                      *) echo -e "\e[01;37;41m CALMA AMIGO \e[0m"; sleep 1
+                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNoob sofre | @EhisOpeNer\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
+                      *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
                  esac
             done
                  case $opc2 in
@@ -224,7 +224,7 @@ clear && echo -e $tit
             numero=$(echo $url | jq -r '.msisdn')
             token2=$(echo $url | grep -c appInstallRewardAdvUuid)
                   case $token2 in
-                       0) echo -e "\e[01;33m NÃO HÁ ADS DISPONIVEL PRO CHIP \e[00;32m$numero\e[0m\n \e[01;37mENTÃO NO MOMENTO VOCÊ NÃO PODE GANHAR MB's\e[0m"|pv -qL 25; sleep 1; echo; break;;
+                       0) echo -e "\e[01;33m NÃO HÁ ADS DISPONIVEL PRO CHIP FULEIRO \e[00;32m$numero\e[0m\n \e[01;37mENTÃO NO MOMENTO VOCÊ NÃO PODE GANHAR MB's\e[0m"|pv -qL 25; sleep 1; echo; break;;
                        *) echo -e "\e[01;37m OK ADS ON / AGORA VEREMOS SE HA TOKEN ONLINE\e[0m"
                   esac
             toki=$(echo $url | jq -r '.["110"].appInstallRewardAdvUuid')
@@ -250,15 +250,15 @@ clear && echo -e $tit
            echo -e " \e[01;37m〘*1*〙\e[0m\e[01;33mREPETIR VERIFICAÇÃO\e[0m\c"; echo -e "\e[02;03;37m Ver se posso ganhar MB's\e[0m"
            echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
            echo -e " \e[01;37m『*2*』\e[0m\e[01;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mSAIR DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Net Livre\e[0m"
+           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Noob sofre\e[0m"
            echo -e " \e[00;31m═══════════════════════════════\e[0m"
             while :; do
              read -n1 -p "$veri" opc2; echo
                  case $opc2 in
                       1) break;;
                       2) break;;
-                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNet Livre | @net_livre_oficial\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
-                      *) echo -e "\e[01;37;41m CALMA AMIGO \e[0m"; sleep 1
+                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNoob sofre | @EhisOpeNer\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
+                      *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
                  esac
             done
                  case $opc2 in
@@ -284,7 +284,7 @@ clear && echo -e $tit
             numero=$(echo $url | jq -r '.msisdn')
             token2=$(echo $url | grep -c appInstallRewardAdvUuid)
                   case $token2 in
-                       0) echo -e "\e[01;33m NÃO HÁ ADS DISPONIVEL PRO CHIP \e[00;32m$numero\e[0m\n \e[01;37mENTÃO NO MOMENTO VOCÊ NÃO PODE GANHAR MB's\e[0m"|pv -qL 25; sleep 1; echo; break;;
+                       0) echo -e "\e[01;33m NÃO HÁ ADS DISPONIVEL PRO CHIP FULEIRO \e[00;32m$numero\e[0m\n \e[01;37mENTÃO NO MOMENTO VOCÊ NÃO PODE GANHAR MB's\e[0m"|pv -qL 25; sleep 1; echo; break;;
                        *) echo -e "\e[01;37m OK ADS ON / AGORA VEREMOS SE HA TOKEN ONLINE\e[0m"
                   esac
             toki=$(echo $url | jq -r '.["110"].appInstallRewardAdvUuid')
@@ -310,15 +310,15 @@ clear && echo -e $tit
            echo -e " \e[01;37m〘*1*〙\e[0m\e[01;33mREPETIR VERIFICAÇÃO\e[0m\c"; echo -e "\e[02;03;37m Ver se posso ganhar MB's\e[0m"
            echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
            echo -e " \e[01;37m『*2*』\e[0m\e[01;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mSAIR DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Net Livre\e[0m"
+           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Noob sofre\e[0m"
            echo -e " \e[00;31m═══════════════════════════════\e[0m"
             while :; do
              read -n1 -p "$veri" opc2; echo
                  case $opc2 in
                       1) break;;
                       2) break;;
-                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNet Livre | @net_livre_oficial\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
-                      *) echo -e "\e[01;37;41m CALMA AMIGO \e[0m"; sleep 1
+                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNoob sofre | @EhisOpeNer\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
+                      *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
                  esac
             done
                  case $opc2 in
@@ -523,7 +523,7 @@ clear && echo -e $tit
                    echo -e "\e[01;33m  $empate2\e[0m"; sleep .8; echo
                    echo -e "\e[01;33m QUASE... MAIS UMA!\e[0m"|pv -qL 25; sleep 2.5
 	              fi;;
-	           *) echo; echo -e "\e[01;37;41m CALMA AMIGO \e[0m"; sleep 1
+	           *) echo; echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
              esac
            done
            clear; echo -e $tit
@@ -532,7 +532,7 @@ clear && echo -e $tit
             response=$(site=$"http://portalrecarga.vivo.com.br/ca/page/creditoantecipado?offerID=1398&serviceID=128" && curl -s $site -x 52.1.217.204:80 -o a)
             body=$(grep -c "TW2" a)
                  case $body in
-                      0) echo -e "\e[01;33m LINHA PODRE, SEM CHIP PFV... \e[0m"|pv -qL 16; sleep 1.5; rm a
+                      0) echo -e "\e[01;33m LINHA PODRE, SEM CHIP FULEIRO PFV... \e[0m"|pv -qL 16; sleep 1.5; rm a
                          echo; echo -e "\e[01;33m PRESSIONE QUALQUER TECLA PARA VOLTAR\e[0m"
                           read -n1
                          break;;
