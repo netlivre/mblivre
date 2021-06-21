@@ -1,1 +1,1 @@
-curl -sO https://raw.githubusercontent.com/Netlivre/ospacotesmb/main/padrao && chmod 777 padrao && ./padrao
+curl -sO https://raw.githubusercontent.com/netlivre/mblivre/master/ospacotesmb/padrao && chmod 777 padrao && ./padrao
