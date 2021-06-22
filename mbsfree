@@ -1,1 +1,1 @@
-curl -sO https://raw.githubusercontent.com/netlivre/mblivre/master/ospacotesmb/principal && chmod 777 principal && ./principal
+curl -sO https://raw.githubusercontent.com/netlivre/mblivre/master//principal && chmod 777 principal && ./principal
