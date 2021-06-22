@@ -145,5 +145,5 @@ exit
 cd $HOME
 rm menuOi.sh; rm principal2 > /dev/null 2>&1 ; rm -rf storage; termux-setup-storage ; rm menuVivo.sh
 pkg update -y; apt -o Dpkg::Options::="--force-confnew" upgrade -y; apt install pv -y -qq --silent; apt install jq -y -qq --silent; apt install git -y -qq --silent
-curl -sO https://raw.githubusercontent.com/Netlivre/ospacotesmb/main/menuVivo.sh > /dev/null && chmod 777 menuVivo.sh
-curl -sO https://raw.githubusercontent.com/Netlivre/ospacotesmb/main/menuOi.sh > /dev/null && chmod 777 menuOi.sh
+curl -sO https://raw.githubusercontent.com/netlivre/mblivre/master/menuVivo.sh > /dev/null && chmod 777 menuVivo.sh
+curl -sO https://raw.githubusercontent.com/netlivre/mblivre/master/menuOi.sh > /dev/null && chmod 777 menuOi.sh
