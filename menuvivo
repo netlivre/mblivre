@@ -108,12 +108,12 @@ clear && echo -e $tit
                  esac
            grepi4=$(echo $response | grep -c "Transaction limit exceeded")
                  case $grepi4 in
-                      1) echo -e "\e[01;32m Servidor netmodz Lotado\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m Servidor NETLIVRE lotado\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
            grepi5=$(echo $response | grep -c "7x1 elegibility")
                  case $grepi5 in
-                      1) echo -e "\e[01;32m Servidor netmodz sendo atualizado\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m Servidor NETLIVRE sendo atualizado\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
               done
@@ -130,7 +130,7 @@ clear && echo -e $tit
                  case $opc2 in
                       1) break;;
                       2) break;;
-                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNetModz | @NetModz\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
+                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNETLIVRE | @net_livre_oficial\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./menuvivo\e[0m"|pv -qL 20; exit;;
                       *) echo -e "\e[01;37;41m CALMA \e[0m"; sleep 1
                  esac
             done
@@ -211,14 +211,14 @@ clear && echo -e $tit
            echo -e " \e[01;37m〘*1*〙\e[0m\e[01;33mREPETIR PERSONALIZADO\e[0m\c"; echo -e "\e[02;03;37m Cole o(s) token(s)\e[0m"
            echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
            echo -e " \e[01;37m『*2*』\e[0m\e[01;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
+           echo -e " \e[01;37m『*0*』\e[0m\e[01;33mSAIR DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
            echo -e " \e[00;31m═══════════════════════════════\e[0m"
             while :; do
              read -n1 -p "$veri" opc2; echo
                  case $opc2 in
                       1) break;;
                       2) break;;
-                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNetModz | @NetModz\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./principal\e[0m"|pv -qL 20; exit;;
+                      0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mNETLIVRE | @net_livre_oficial\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: ./menuvivo\e[0m"|pv -qL 20; exit;;
                       *) echo -e "\e[01;37;41m CALMA \e[0m"; sleep 1
                  esac
             done
