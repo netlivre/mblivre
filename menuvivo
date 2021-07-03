@@ -54,7 +54,6 @@ clear && echo -e $tit
   echo -e ' \e[01;37m〘*7*〙\e[0m\e[01;33mGASTAR CREDITOS "AMIGOS"\e[0m\c'; echo -e "\e[02;03;37m\e[0m"
   echo -e " \e[00;31m══════════════\e[0m\e[01;37m\e[00;31m═══════════════\e[0m"
   echo -e " \e[01;37m『*8*』\e[0m\e[01;33mSOLICITAR PASS\e[0m\c"; echo -e "     \e[02;03;37m Pegue o Pass aqui\e[0m"
-  echo -e " \e[01;37m『*9*』\e[0m\e[01;33mVOLTAR MENU PRINCIPAL\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
   echo -e " \e[01;37m『*0*』\e[0m\e[01;33mSAIR DO SCRIPT\e[0m\c"; echo -e "          \e[02;03;37m\e[0m"
   echo -e " \e[00;31m═══════════════════════════════\e[0m"
   
